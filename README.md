@@ -1,6 +1,6 @@
 # Video Generator
 
-An Video generator that supports creating videos of precise sizes for testing purposes.
+An video generator that supports creating videos of precise sizes for testing purposes.
 
 ## Features
 
