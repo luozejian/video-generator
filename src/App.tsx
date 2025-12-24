@@ -65,7 +65,7 @@ type Result = {
 // --- 国际化资源 --- 
 const translations: Translations = {
   zh: {
-    appTitle: "智能视频生成器 (Gemini Enhanced)",
+    appTitle: "视频生成器",
     appDesc: "基于 AI 的视频生成工具。支持根据测试场景描述自动配置参数，并生成精确大小的测试文件。",
     realMode: "真实渲染模式",
     realModeDesc: "生成可播放的视频。利用尾部填充技术，精确匹配目标大小。",
@@ -93,7 +93,7 @@ const translations: Translations = {
     paddingInfo: "已智能填充"
   },
   en: {
-    appTitle: "Smart Video Gen (Gemini)",
+    appTitle: "Video Generator",
     appDesc: "AI-powered video generator. Auto-configures parameters based on test scenarios and generates byte-perfect files.",
     realMode: "Real Render Mode",
     realModeDesc: "Generates playable video. Uses tail padding to match target size exactly while maintaining playability.",
