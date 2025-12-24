@@ -66,7 +66,7 @@ type Result = {
 const translations: Translations = {
   zh: {
     appTitle: "视频生成器",
-    appDesc: "基于 AI 的视频生成工具。支持根据测试场景描述自动配置参数，并生成精确大小的测试文件。",
+    appDesc: "视频生成工具。支持根据测试场景描述自动配置参数，并生成精确大小的测试文件。",
     realMode: "真实渲染模式",
     realModeDesc: "生成可播放的视频。利用尾部填充技术，精确匹配目标大小。",
     fakeMode: "快速伪造模式",
