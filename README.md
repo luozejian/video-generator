@@ -1,6 +1,6 @@
-# Video Generator
+# Mock Video Generator
 
-A video generator that supports creating videos of precise sizes for testing purposes.
+A mock video generator that supports creating videos of precise sizes for testing purposes.
 
 ## Features
 
